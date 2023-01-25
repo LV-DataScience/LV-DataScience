@@ -9,7 +9,7 @@ I am a curious person about the world of data science and artificial intelligenc
 * 🌍  I'm based in Rouen - France 
 * ✉️  You can contact me at [valentinlucas@hotmail.fr](mailto:valentinlucas@hotmail.fr) 
 * 🧠  I'm learning some Python Libraries 
-* 🤝  I'm open to collaborating on Data Science projets
+* 🤝  I'm open to collaborating on Data Science projects
 
 ## Programming Technologies 
 - 🔬 Python -> Numpy / Pandas / Matplotlib / Seaborn / Scikit-Learn / Tensorflow / BeautifulSoup
