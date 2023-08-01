@@ -12,7 +12,4 @@ I am a curious person about the world of data science and artificial intelligenc
 * 🤝  I'm open to collaborating on Data Science projects
 
 ## Programming Technologies 
-- 🔬 Python -> Numpy / Pandas / Matplotlib / Seaborn / Scikit-Learn / Tensorflow / BeautifulSoup
-- 🌐 -> VueJS / React / NodeJS / Tailwind CSS (HTML/CSS/JS/PHP)
-- 💾 -> MySQL / PostgreSQL / GraphQL + Neo4J
-- 💻 -> C / Java
+- REWORKING
