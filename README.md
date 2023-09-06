@@ -1,5 +1,7 @@
 # Valentin Lucas - Data Science Student | @RouenUniversity
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anatole-blue?logo=linkedin)]([https://www.linkedin.com/in/anatole-godard](https://www.linkedin.com/in/valentin-lucas/))
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I Am Valentin Lucas, a Data Science student in Rouen, currently in search of a 6-month internship as a Data Engineer.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
