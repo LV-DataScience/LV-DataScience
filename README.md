@@ -8,7 +8,7 @@ I am a curious person about the world of data science and artificial intelligenc
 * 🌍  I'm based in Rouen - France 
 * ✉️  You can contact me at [valentinlucas@hotmail.fr](mailto:valentinlucas@hotmail.fr) 
 
-## Programming Technologies 
+## ⌨️ Programming Technologies 
 ### 💻 Global Technologies Skills
 - Python, Java
 - MySQL, PostgresSQL, MongoDB
