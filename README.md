@@ -16,13 +16,13 @@ I am a curious person about the world of data science and artificial intelligenc
 - Git
 - BeautifulSoup/Selenium for scraping
 
-### 🛠️ Data Engineer Oriented
+### 🛠️ Data Engineer Skills
 - Apache Nifi
 - Hadoop
 - Datahub (Data lineage using)
 - Github Action
 
-### 🔬 Data Scientist Oriented
+### 🔬 Data Scientist Skills
 - Numpy, Pandas, Matplotlib/Seaborn
 - Scikit-Learn
 - Pytorch / Tensorflow
