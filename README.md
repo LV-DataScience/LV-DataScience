@@ -9,20 +9,20 @@ I am a curious person about the world of data science and artificial intelligenc
 * ✉️  You can contact me at [valentinlucas@hotmail.fr](mailto:valentinlucas@hotmail.fr) 
 
 ## Programming Technologies 
-### Global Technologies
+### 💻 Global Technologies Skills
 - Python, Java
 - MySQL, PostgresSQL, MongoDB
 - Docker
 - Git
 - BeautifulSoup/Selenium for scraping
 
-### Data Engineer Oriented
+### 🛠️ Data Engineer Oriented
 - Apache Nifi
 - Hadoop
 - Datahub (Data lineage using)
 - Github Action
 
-### Data Scientist Oriented
+### 🔬 Data Scientist Oriented
 - Numpy, Pandas, Matplotlib/Seaborn
 - Scikit-Learn
 - Pytorch / Tensorflow
