@@ -17,6 +17,7 @@ I am a curious person about the world of data science and artificial intelligenc
 - Docker
 - Git
 - BeautifulSoup/Selenium for scraping
+- Grafana
 
 ### 🛠️ Data Engineer Skills
 - Apache Nifi
