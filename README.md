@@ -15,8 +15,9 @@ I am a curious person about the world of data science and artificial intelligenc
 - Python, Java
 - MySQL, PostgresSQL, MongoDB
 - Docker
+- Flask
 - Git
-- BeautifulSoup/Selenium for scraping
+- BeautifulSoup/Selenium 
 - Grafana
 
 ### 🛠️ Data Engineer Skills
@@ -26,6 +27,6 @@ I am a curious person about the world of data science and artificial intelligenc
 - Github Action
 
 ### 🔬 Data Scientist Skills
-- Numpy, Pandas, Matplotlib/Seaborn
+- Numpy, Pandas, Matplotlib/Seaborn, Streamlit
 - Scikit-Learn
 - Pytorch / Tensorflow
