@@ -12,7 +12,7 @@ I am a curious person about the world of data science and artificial intelligenc
 
 ## ⌨️ Programming Technologies 
 ### 💻 Global Technologies Skills
-- Python, Java
+- Python, Java, Bash
 - MySQL, PostgresSQL, MongoDB
 - Docker
 - Flask
